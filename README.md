@@ -14,6 +14,8 @@ There are 33,118‬ employees retiring and 1,549 employees ready for mentorship.
 
 I would recommend further analysis to break down retirement exposure by department to determine where hiring managers will have to focus most.
 
+CSVs are located in the Data/Challenge folder. Challenge.sql is located in the Queries folder.
+
 ### SQL Code and Snippets
 
 ```SQL
